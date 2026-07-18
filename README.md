@@ -111,14 +111,14 @@ For every problem: **1)** Pseudocode first → **2)** Translate to code (Java) �
 - [x] 10. Check whether a number is a perfect square (without using the square root function).
 
 ### 🟢 Level 4: Logical Operators & Compound Statements
-- [ ] 1. Take a character and check if it is a letter, a digit, or neither.
-- [ ] 2. Take a number and print "Fizz" if divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
-- [ ] 3. Take three numbers and print the median value (neither maximum nor minimum).
-- [ ] 4. Take 24-hour time (hours and minutes) and print whether it is AM or PM.
-- [ ] 5. Take income and age, and check if eligible for tax (age > 18 and income > 5 L).
-- [ ] 6. Take two numbers and check if both are positive and their sum is less than 100.
-- [ ] 7. Take a single digit (0–9) and print its word form ("Zero" to "Nine").
-- [ ] 8. Take a weekday number (1–7) and determine if it is a weekday or weekend.
+- [X] 1. Take a character and check if it is a letter, a digit, or neither.
+- [x] 2. Take a number and print "Fizz" if divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
+- [x] 3. Take three numbers and print the median value (neither maximum nor minimum).
+- [x] 4. Take 24-hour time (hours and minutes) and print whether it is AM or PM.
+- [x] 5. Take income and age, and check if eligible for tax (age > 18 and income > 5 L).
+- [x] 6. Take two numbers and check if both are positive and their sum is less than 100.
+- [x] 7. Take a single digit (0–9) and print its word form ("Zero" to "Nine").
+- [x] 8. Take a weekday number (1–7) and determine if it is a weekday or weekend.
 - [ ] 9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
 - [ ] 10. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
 
