@@ -119,20 +119,20 @@ For every problem: **1)** Pseudocode first → **2)** Translate to code (Java) �
 - [x] 6. Take two numbers and check if both are positive and their sum is less than 100.
 - [x] 7. Take a single digit (0–9) and print its word form ("Zero" to "Nine").
 - [x] 8. Take a weekday number (1–7) and determine if it is a weekday or weekend.
-- [ ] 9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
-- [ ] 10. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
+- [x] 9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
+- [x] 10. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
 
 ### 🔴 Level 5: Creative / Tricky Logical Scenarios
-- [ ] 1. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
-- [ ] 2. Take three numbers and check if they can form a Pythagorean triplet.
-- [ ] 3. Take day and month and check if it forms a valid calendar date (ignoring leap years).
-- [ ] 4. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
-- [ ] 5. Take three numbers and check if they are in arithmetic progression.
-- [ ] 6. Take three numbers and check if they are in geometric progression.
-- [ ] 7. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
-- [ ] 8. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
-- [ ] 9. Take two dates (day and month) and determine which one comes first in the calendar.
-- [ ] 10. Take a year and print the corresponding century (e.g., "19th century", "20th century").
+- [x] 1. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
+- [x] 2. Take three numbers and check if they can form a Pythagorean triplet.
+- [x] 3. Take day and month and check if it forms a valid calendar date (ignoring leap years).
+- [x] 4. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
+- [x] 5. Take three numbers and check if they are in arithmetic progression.
+- [x] 6. Take three numbers and check if they are in geometric progression.
+- [x] 7. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
+- [x] 8. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
+- [x] 9. Take two dates (day and month) and determine which one comes first in the calendar.
+- [x] 10. Take a year and print the corresponding century (e.g., "19th century", "20th century").
 
 ---
 
