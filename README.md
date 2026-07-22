@@ -139,19 +139,19 @@ For every problem: **1)** Pseudocode first → **2)** Translate to code (Java) �
 # 02 — While Loop
 *(Logic Building with Loops → Phase 1)*
 
-- [ ] 1. Print all numbers from 1 to 10 using a loop.
-- [ ] 2. Print numbers from 10 down to 1 in reverse order.
-- [ ] 3. Print all even numbers between 1 and 100.
-- [ ] 4. Print all odd numbers between 1 and 100.
-- [ ] 5. Print the multiplication table of a given number from n × 1 to n × 10.
-- [ ] 6. Calculate and print the sum of the first n natural numbers.
-- [ ] 7. Calculate the sum of all even numbers from 1 up to n.
-- [ ] 8. Calculate the sum of all odd numbers from 1 up to n.
-- [ ] 9. Calculate and print the factorial of a given number.
-- [ ] 10. Find and print the product of all digits of a given number.
-- [ ] 11. Count and print the total number of digits in a given number.
-- [ ] 12. Reverse the given number and print the reversed value.
-- [ ] 13. Check whether the given number is a palindrome.
+- [x] 1. Print all numbers from 1 to 10 using a loop.
+- [x] 2. Print numbers from 10 down to 1 in reverse order.
+- [x] 3. Print all even numbers between 1 and 100.
+- [x] 4. Print all odd numbers between 1 and 100.
+- [x] 5. Print the multiplication table of a given number from n × 1 to n × 10.
+- [x] 6. Calculate and print the sum of the first n natural numbers.
+- [x] 7. Calculate the sum of all even numbers from 1 up to n.
+- [x] 8. Calculate the sum of all odd numbers from 1 up to n.
+- [x] 9. Calculate and print the factorial of a given number.
+- [x] 10. Find and print the product of all digits of a given number.
+- [x] 11. Count and print the total number of digits in a given number.
+- [x] 12. Reverse the given number and print the reversed value.
+- [x] 13. Check whether the given number is a palindrome.
 - [ ] 14. Find and print the sum of digits of the given number.
 - [ ] 15. Check whether the given number is an Armstrong number.
 - [ ] 16. Check whether the given number is a Perfect number.
