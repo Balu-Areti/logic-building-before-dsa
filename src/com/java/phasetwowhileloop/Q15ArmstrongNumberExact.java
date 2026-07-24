@@ -10,17 +10,16 @@ public class Q15ArmstrongNumberExact {
         int num = sc.nextInt();
         int original = num; // original = num
 
-        // n = count of digits in num
-        // (Shortcut: Convert to string, get length)
+        // n = count of digits in num   // (Shortcut: Convert to string, get length)
         int n = String.valueOf(num).length();
 
         int sum = 0;        // sum = 0
 
         // WHILE num > 0:
         while (num > 0) {
-            int digit = num % 10;                     // digit = num MOD 10
-            sum = sum + (int) Math.pow(digit, n);     // sum = sum + digit^n
-            num = num / 10;                           // num = num / 10
+            int digit = num % 10;                     // digit = num MOD 10   153 % 10 = 3        15%10 = 5      1  27+125+1 = 153
+            sum = sum + (int) Math.pow(digit, n);     // sum = sum + digit^n  0 + 0+ 3^3 = 27     0+0+5^5= 125   1
+            num = num / 10;                           // num = num / 10       153 /10 = 15          15 /10 = 1   0
         }
 
         // IF sum == original THEN PRINT...

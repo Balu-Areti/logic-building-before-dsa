@@ -6,6 +6,20 @@ public class Q16PerfectNumberCheck {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your cart ID : ");
+        int num = sc.nextInt();
+        int i = 1;
+        int sum = 0;
+
+        while(i <= num/2){
+            if (num % i == 0){
+                sum = sum + i;
+            }
+            i = i + 1;
+        }if (sum == num){
+            System.out.println("Perfect");
+        }else {
+            System.out.println("Not perfect");
+        }
 
     }
 
