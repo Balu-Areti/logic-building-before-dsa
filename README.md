@@ -152,8 +152,8 @@ For every problem: **1)** Pseudocode first â†’ **2)** Translate to code (Java) â
 - [x] 11. Count and print the total number of digits in a given number.
 - [x] 12. Reverse the given number and print the reversed value.
 - [x] 13. Check whether the given number is a palindrome.
-- [ ] 14. Find and print the sum of digits of the given number.
-- [ ] 15. Check whether the given number is an Armstrong number.
+- [x] 14. Find and print the sum of digits of the given number.
+- [x] 15. Check whether the given number is an Armstrong number.
 - [ ] 16. Check whether the given number is a Perfect number.
 - [ ] 17. Print all prime numbers between 1 and 100.
 - [ ] 18. Check whether the given number is a prime number.

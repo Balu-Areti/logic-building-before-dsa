@@ -1,4 +1,4 @@
 package com.java.phasetwowhileloop;
 
-public class Q15ArmstrongCheck {
+public class Q19FibonacciSeries {
 }
