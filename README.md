@@ -154,7 +154,7 @@ For every problem: **1)** Pseudocode first â†’ **2)** Translate to code (Java) â
 - [x] 13. Check whether the given number is a palindrome.
 - [x] 14. Find and print the sum of digits of the given number.
 - [x] 15. Check whether the given number is an Armstrong number.
-- [ ] 16. Check whether the given number is a Perfect number.
+- [x] 16. Check whether the given number is a Perfect number.
 - [ ] 17. Print all prime numbers between 1 and 100.
 - [ ] 18. Check whether the given number is a prime number.
 - [ ] 19. Print the Fibonacci series up to n terms.
